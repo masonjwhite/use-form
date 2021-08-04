@@ -50,7 +50,8 @@ It is inspired by libraries such as [Formik](https://www.npmjs.com/package/formi
 ## Methods exposed by `useForm`
 
 - `handleChange`
-  - A reusable handle change function that will automatically track an input's value as it changes -**Usage**
+  - A reusable handle change function that will automatically track an input's value as it changes 
+  - **Usage**
 
          <input
            id="firstName"
