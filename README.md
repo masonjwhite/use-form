@@ -132,4 +132,4 @@ It is inspired by libraries such as [Formik](https://www.npmjs.com/package/formi
       };
 
 ## Full Form Example
-Please see the `UserDetailsForm` component in the `example` directory
+Please see the `UserDetailsForm` component in the `examples` directory
