@@ -52,13 +52,13 @@ It is inspired by libraries such as [Formik](https://www.npmjs.com/package/formi
 - `handleChange`
   - A reusable handle change function that will automatically track an input's value as it changes -**Usage**
 
-      <input
-        id="firstName"
-        type='text'
-        name='firstName'
-        value={values.firstName}
-        onChange={handleChange} // Wire the input up to `useForm` to track its value
-      />
+         <input
+           id="firstName"
+           type='text'
+           name='firstName'
+           value={values.firstName}
+           onChange={handleChange} // Wire the input up to `useForm` to track its value
+         />
 
   - If you need to support a form mechanism that does not have an `onChange` event (e.g. buttons), see manuallySetFormValues
   
